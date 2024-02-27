@@ -50,6 +50,10 @@ function test1() {
   console.log('11');
 }
 test1();
+function test2() {
+  console.log('22');
+}
+test2();
 </script>
 
 <template>
