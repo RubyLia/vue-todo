@@ -43,9 +43,13 @@ function deleteItem(id) {
   data.items.splice(idx, 1);
 }
 function test() {
-  console.log('11');
+  console.log('33');
 }
 test();
+function test1() {
+  console.log('11');
+}
+test1();
 </script>
 
 <template>
